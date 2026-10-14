@@ -1,5 +1,5 @@
-YouTube: v21.13.164
-YT Music: v9.15.51
+YouTube: v21.39.525
+YT Music: v9.40.51
   
 Patches: MorpheApp/AnddeaPatches-v4.4.0-dev.1.mpp
 
